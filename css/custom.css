@@ -66,8 +66,7 @@ h1.tittle {
 }
 
 #about img, #portfolio img {
-	width: 100%;
-}
+	width: 100%;}
 
 #about, #portfolio, #team, #contact {
 	padding: 50px 0;
@@ -77,8 +76,7 @@ h1.tittle {
 	background: #0087e6;
 }
 
-#team img {
-	width: 180px;
+#team img	width: 180px;
 	border : solid 5px #fff;
 }
 
@@ -138,5 +136,5 @@ footer {
 }
 
 .item > img {
-	max-width: 100%;
+	width: 100%;
 }
